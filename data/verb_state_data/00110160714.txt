@@ -1,0 +1,5229 @@
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+查阅资料,actions
+launched,2001.htm
+launched,2001.htm
+launched,2701.htm
+launched,2001.htm
+launched,3301.htm
+launched,2701.htm
+launched,2001.htm
+click,tipclose
+1536211802000,3301.htm#tipcloseTime
+fill,incorrect
+1,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+liberary,related
+exited,2801.json
+liberary,related
+exited,2801.json
+2,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+3,3301.htm#submitTimes
+click,submit1
+fill,incorrect
+4,3301.htm#submitTimes
+click,submit1
+liberary,related
+exited,2801.json
+fill,correct
+5,3301.htm#submitTimes
+click,submit1
+221,3301.htm#answerTime
+launched,2001.htm
+exited,2701.htm
+launched,2702.htm
+launched,2001.htm
+exited,3301.htm
+消毒方案优选,actions
+launched,2702.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+click,restart
+liberary,related
+exited,2804.json
+Determine,0
+Determine,0
+click,restart
+drag,0
+drag,1
+drag,1
+drag,2
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,7
+drag,8
+drag,5
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,10
+drag,9
+drag,6
+drag,3
+drag,0
+drag,10
+drag,0
+drag,10
+drag,3
+drag,10
+drag,7
+drag,10
+drag,4
+drag,1
+drag,0
+drag,1
+drag,4
+drag,8
+drag,10
+drag,7
+drag,4
+drag,2
+drag,1
+drag,1
+drag,2
+drag,7
+drag,10
+drag,7
+drag,4
+drag,1
+drag,0
+drag,1
+drag,3
+drag,6
+drag,8
+drag,10
+drag,9
+drag,6
+drag,2
+drag,0
+drag,1
+drag,2
+drag,2
+drag,3
+drag,3
+drag,3
+Determine,3
+Determine,3
+Determine,3
+click,restart
+drag,0
+drag,1
+drag,2
+drag,3
+drag,4
+drag,5
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,5
+drag,4
+drag,4
+drag,4
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+drag,5
+drag,4
+drag,4
+drag,3
+drag,3
+drag,3
+drag,4
+drag,4
+drag,5
+drag,5
+drag,5
+Determine,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,5
+drag,6
+drag,7
+drag,6
+drag,7
+drag,7
+drag,8
+drag,9
+drag,8
+drag,9
+drag,8
+drag,9
+exited,3302.htm
+drag,8
+drag,9
+drag,8
+drag,9
+drag,10
+exited,2702.htm
+exited,2001.htm
+drag,10
+drag,9
+drag,8
+drag,8
+Determine,8
+drag,8
+drag,7
+drag,7
+drag,7
+drag,6
+drag,6
+Determine,6
+drag,6
+drag,6
+drag,5
+drag,5
+drag,4
+drag,3
+click,tips
+launched,3302.htm
+launched,2702.htm
+launched,2001.htm
+completed,incorrect
+goto,3302.htm#跳转到PSA02
+launched,2001.htm
+exited,2702.htm
+launched,2703.htm
+launched,2001.htm
+exited,3302.htm
+圣女果的最佳光照条件,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+liberary,unrelated
+exited,2803.json
+drag,0
+drag,500
+drag,1000
+drag,1500
+exited,3303.htm
+exited,2703.htm
+exited,2001.htm
+click,restart
+drag,0
+drag,0
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2500
+drag,3000
+drag,3500
+drag,4000
+drag,4500
+drag,5000
+drag,5500
+drag,6000
+drag,6000
+drag,6500
+drag,7000
+drag,6500
+drag,7000
+drag,7000
+drag,6500
+drag,6500
+drag,6000
+drag,5500
+drag,5500
+drag,5000
+drag,4000
+drag,3500
+drag,3500
+drag,3500
+drag,3000
+drag,2500
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,0
+drag,0
+drag,500
+drag,500
+drag,1000
+drag,1500
+drag,2000
+drag,2000
+fill,incorrect
+drag,2000
+drag,1500
+drag,1000
+drag,500
+drag,500
+fill,incorrect
+click,tips
+launched,3303.htm
+launched,2703.htm
+launched,2001.htm
+completed,incorrect
+exited,3303.htm
+光照恒定,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+fill,incorrect
+changecolor,白光
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+changecolor,白光
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+click,restart
+click,restart
+fill,incorrect
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,restart
+click,restart
+exited,3304.htm
+exited,2703.htm
+exited,2001.htm
+liberary,related
+launched,3304.htm
+launched,2703.htm
+launched,2001.htm
+exited,2807.json
+click,tips
+completed,incorrect
+exited,3304.htm
+单一颜色光,actions
+launched,2703.htm
+launched,2001.htm
+click,tips
+click,tips
+drag,0
+drag,100
+drag,200
+drag,300
+drag,400
+drag,500
+drag,550
+drag,600
+drag,700
+drag,800
+drag,850
+drag,900
+drag,1000
+drag,1100
+drag,1150
+drag,1250
+drag,1350
+drag,1250
+drag,1150
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,650
+drag,500
+drag,300
+drag,100
+drag,0
+drag,0
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,450
+drag,500
+drag,550
+drag,600
+drag,650
+drag,750
+drag,900
+drag,1050
+drag,1350
+drag,1700
+drag,1900
+drag,2050
+drag,2000
+drag,1950
+drag,1900
+drag,1850
+drag,1800
+drag,1750
+drag,1700
+drag,1650
+drag,1600
+drag,1550
+drag,1500
+drag,1450
+drag,1400
+drag,1350
+drag,1300
+drag,1250
+drag,1150
+drag,1100
+drag,1050
+drag,1000
+drag,950
+drag,900
+drag,850
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,550
+drag,500
+drag,450
+drag,450
+drag,500
+Determine,500
+drag,500
+drag,550
+drag,600
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,950
+drag,1000
+Determine,1000
+click,restart
+drag,0
+drag,150
+drag,250
+drag,300
+drag,350
+drag,450
+Determine,450
+Determine,450
+click,restart
+drag,50
+drag,100
+drag,150
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,350
+drag,400
+drag,350
+drag,350
+drag,300
+drag,400
+drag,450
+drag,450
+drag,400
+drag,300
+drag,250
+drag,250
+drag,200
+Determine,200
+drag,200
+drag,250
+drag,300
+drag,350
+drag,400
+drag,450
+drag,500
+drag,550
+drag,650
+drag,700
+drag,750
+drag,800
+drag,850
+drag,900
+drag,900
+drag,850
+drag,800
+drag,750
+drag,650
+drag,700
+drag,750
+drag,800
+drag,750
+drag,700
+drag,650
+drag,600
+drag,550
+drag,500
+drag,400
+drag,400
+drag,450
+drag,500
+drag,550
+drag,500
+drag,450
+drag,400
+drag,400
+drag,450
+drag,500
+click,tips
+completed,incorrect
+launched,2001.htm
+exited,2703.htm
+launched,2704.htm
+launched,2001.htm
+exited,3305.htm
+蚜虫颜色趋性,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+fillColor,3306.htm#trap-tree tree2
+click,restart
+changecolor,orange
+changecolor,purple
+changecolor,white
+click,运行
+changecolor,green
+changecolor,green
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+changecolor,purple
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,green
+click,清空
+click,运行
+fillColor,3306.htm#trap-tree tree3
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree2
+changecolor,white
+fillColor,3306.htm#trap-tree tree1
+changecolor,red
+fillColor,3306.htm#trap-tree tree6
+changecolor,blue
+fillColor,3306.htm#trap-tree tree4
+changecolor,green
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree3
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+changecolor,nothing
+changecolor,white
+fillColor,3306.htm#trap-tree tree5
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,blue
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree3
+changecolor,purple
+fillColor,3306.htm#trap-tree tree4
+changecolor,red
+fillColor,3306.htm#trap-tree tree2
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree1
+changecolor,white
+fillColor,3306.htm#trap-tree tree6
+changecolor,purple
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,purple
+changecolor,black
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,restart
+changecolor,red
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,orange
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+click,运行
+changecolor,green
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,blue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,deepblue
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,purple
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+changecolor,white
+fillColor,3306.htm#trap-tree tree4
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree6
+click,运行
+changecolor,black
+fillColor,3306.htm#trap-tree tree1
+fillColor,3306.htm#trap-tree tree2
+fillColor,3306.htm#trap-tree tree6
+fillColor,3306.htm#trap-tree tree3
+fillColor,3306.htm#trap-tree tree5
+fillColor,3306.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
+exited,3306.htm
+绘制蚜虫颜色趋性图,actions
+launched,2704.htm
+launched,2001.htm
+click,tips
+click,tips
+click,tips
+click,tips
+changecolor,red
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,orange
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,yellow
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+click,运行
+changecolor,green
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,deepblue
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+click,运行
+changecolor,purple
+fillColor,3307.htm#trap-tree tree4
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree3
+click,运行
+changecolor,white
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+changecolor,black
+fillColor,3307.htm#trap-tree tree3
+fillColor,3307.htm#trap-tree tree2
+fillColor,3307.htm#trap-tree tree1
+fillColor,3307.htm#trap-tree tree6
+fillColor,3307.htm#trap-tree tree5
+fillColor,3307.htm#trap-tree tree4
+click,运行
+fill,correct
+click,tips
+completed,correct
