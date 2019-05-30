@@ -25,7 +25,7 @@ def Decompression(files,file_path,save_path):
         except:
             pass
 # save_path="/home/zijun/PSAADIY/pssa/data/圣女果学生数据解压/"
-# for file_path,sub_dirs,files in os.walk("/home/zijun/PSAADIY/pssa/data/圣女果学生数据"):
+# for file_path,sub_dirs,files in os.walk("/home/zijun/PSAADIY/pssa/data/raw_data_zipped"):
 #     print(file_path, sub_dirs, files)
 #     Decompression(files, file_path, save_path)
 
@@ -35,7 +35,7 @@ def file_move(path):
         from_path=path+i+"/"+"PSA-T023.json"
         to_path="/home/zijun/PSAADIY/pssa/data/log_data/"+i+".json"
         shutil.move(from_path,to_path)
-# file_move("/home/zijun/PSAADIY/pssa/data/圣女果学生数据解压/")
+#file_move("./data/圣女果学生数据解压/")
 #######################################################################
 def find_not_new(verb_state_list):
     for i in range(len(verb_state_list)):

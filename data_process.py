@@ -35,12 +35,12 @@ def data_df1(path):
 
 
 
-df1=data_df1("/home/zijun/PSAADIY/pssa/data/feature/features_change_123.csv")
+df1=data_df1("./data/feature/features_change_123.csv")
 df1.fillna(0,inplace=True)
-df1.to_csv("/home/zijun/PSAADIY/pssa/data/feature/features_merge_123.csv")
+df1.to_csv("./data/feature/features_merge_123.csv")
 
 df_max_min = (df1 - df1.min()) / (df1.max() - df1.min())
-df_max_min.to_csv("/home/zijun/PSAADIY/pssa/data/feature/features_guiyi_123.csv",index=False)
+df_max_min.to_csv("./data/feature/features_guiyi_123.csv",index=False)
 
 # sns.set(font_scale=0.5)
 # cols=['sum_score', 'click_des_count', 'liberary_related_count', 'liberary_unrelated_count', 'strategy_count', 'click_restart_count', "click_determine_count",'related_time', 'unrelated_time', 'launch_action_diff', 'first_des_time',"related_time_rate","related_count_rate","strage_rate"]
